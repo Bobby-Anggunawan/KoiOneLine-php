@@ -1,24 +1,24 @@
 <?php
 
-namespace Nextpack\Nextpack;
+namespace whiletruewar\koi_one_line;
 
 /**
  * Class Sample
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class Sample
 {
 
     /**
-     * @var  \Nextpack\Nextpack\Config
+     * @var  \whiletruewar\koi_one_line\Config
      */
     private $config;
 
     /**
      * Sample constructor.
      *
-     * @param \Nextpack\Nextpack\Config $config
+     * @param \whiletruewar\koi_one_line\Config $config
      */
     public function __construct(Config $config)
     {

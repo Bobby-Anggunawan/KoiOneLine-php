@@ -1,13 +1,13 @@
 <?php
 
-namespace Nextpack\Nextpack\Exceptions;
+namespace whiletruewar\koi_one_line\Exceptions;
 
 use Exception as CoreException;
 
 /**
  * Class Exception
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class Exception extends CoreException
 {

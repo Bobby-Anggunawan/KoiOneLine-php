@@ -1,13 +1,13 @@
 <?php
 
-namespace Nextpack\Nextpack\Tests;
+namespace whiletruewar\koi_one_line\Tests;
 
 use PHPUnit_Framework_TestCase as PHPUnit;
 
 /**
  * Class TestCase
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class TestCase extends PHPUnit
 {

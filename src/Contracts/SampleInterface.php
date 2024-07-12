@@ -1,11 +1,11 @@
 <?php
 
-namespace Nextpack\Nextpack\Contracts;
+namespace whiletruewar\koi_one_line\Contracts;
 
 /**
  * Interface  SampleInterface
  *
- * @author   Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author   WhileTrueWar  <mahmoud@zalt.me>
  */
 interface SampleInterface
 {

@@ -1,14 +1,14 @@
 <?php
 
-namespace Nextpack\Nextpack;
+namespace whiletruewar\koi_one_line;
 
 use Illuminate\Config\Repository;
-use Nextpack\Nextpack\Exceptions\ConfigFileNotFoundException;
+use whiletruewar\koi_one_line\Exceptions\ConfigFileNotFoundException;
 
 /**
  * Class Config
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class Config
 {

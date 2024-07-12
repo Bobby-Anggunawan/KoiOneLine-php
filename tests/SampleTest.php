@@ -1,16 +1,16 @@
 <?php
 
-namespace Nextpack\Nextpack\Tests;
+namespace whiletruewar\koi_one_line\Tests;
 
-use Nextpack\Nextpack\Config;
-use Nextpack\Nextpack\Sample;
+use whiletruewar\koi_one_line\Config;
+use whiletruewar\koi_one_line\Sample;
 
 /**
  * Class SampleTest
  *
  * @category Test
- * @package  Nextpack\Nextpack\Tests
- * @author   Mahmoud Zalt <mahmoud@zalt.me>
+ * @package  whiletruewar\koi_one_line\Tests
+ * @author   WhileTrueWar <mahmoud@zalt.me>
  */
 class SampleTest extends TestCase
 {
@@ -20,7 +20,7 @@ class SampleTest extends TestCase
         $config = new Config();
         $sample = new Sample($config);
 
-        $name = 'Mahmoud Zalt';
+        $name = 'whiletruewar';
 
         $result = $sample->sayHello($name);
 

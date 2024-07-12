@@ -1,16 +1,16 @@
 <?php
 
-namespace Nextpack\Nextpack\ServiceProviders;
+namespace whiletruewar\koi_one_line\ServiceProviders;
 
 use Illuminate\Support\ServiceProvider;
-use Nextpack\Nextpack\Contracts\SampleInterface;
-use Nextpack\Nextpack\Facades\SampleFacadeAccessor;
-use Nextpack\Nextpack\Sample;
+use whiletruewar\koi_one_line\Contracts\SampleInterface;
+use whiletruewar\koi_one_line\Facades\SampleFacadeAccessor;
+use whiletruewar\koi_one_line\Sample;
 
 /**
  * Class NextpackServiceProvider
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class NextpackServiceProvider extends ServiceProvider
 {

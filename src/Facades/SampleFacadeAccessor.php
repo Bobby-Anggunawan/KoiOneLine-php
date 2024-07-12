@@ -1,13 +1,13 @@
 <?php
 
-namespace Nextpack\Nextpack\Facades;
+namespace whiletruewar\koi_one_line\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class SampleFacadeAccessor
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class SampleFacadeAccessor extends Facade
 {
@@ -19,6 +19,6 @@ class SampleFacadeAccessor extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'nextpack.sample';
+        return 'koi_one_line.sample';
     }
 }

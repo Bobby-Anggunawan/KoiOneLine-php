@@ -1,10 +1,10 @@
 <?php
-namespace Nextpack\Nextpack\Exceptions;
+namespace whiletruewar\koi_one_line\Exceptions;
 
 /**
  * Class ConfigFileNotFoundException
  *
- * @author  Mahmoud Zalt  <mahmoud@zalt.me>
+ * @author  WhileTrueWar  <mahmoud@zalt.me>
  */
 class ConfigFileNotFoundException extends Exception
 {
